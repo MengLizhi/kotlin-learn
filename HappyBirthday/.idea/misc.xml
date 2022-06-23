@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/project/github/kotlin-learn/HappyBirthday/app/src/main/res/layout/activity_main.xml" value="0.18489583333333334" />
+        <entry key="..\:/project/github/kotlin-learn/HappyBirthday/app/src/main/res/layout/fragment_custom_text.xml" value="0.1743659420289855" />
+        <entry key="..\:/project/github/kotlin-learn/HappyBirthday/app/src/main/res/layout/test_layout.xml" value="0.10973724884080371" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
